@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;}
+
+
+
+.ana{width: 100%;
+height: 100%;
+background-image: url(images/797.jpg);
+position: absolute; 
+background-position: center;
+background-size: cover; }
+
+.formkutu2{width: 420px;
+height: 500px;
+position: relative; 
+background-color:rgba(192,192,192,0.3);
+border-radius: 36px;
+margin: 6% auto; 
+padding: 10px;
+border-color: white;
+}
+.baslik{
+text-align: center;
+padding-top: 50px;
+color: white;
+font-size: 25px;
+font-weight: bold;
+font-family: 'Times New Roman', Times, serif;
+ }
+.formkutu2 input{ 
+width: 170px;
+height: 30px;
+position: relative;
+top:30px;
+margin: 5px 30% ;
+border-radius: 5px;
+border-color: aliceblue;
+}
+
+.yazi{
+text-align: center;
+margin-top: 55px;
+font-size: 20px;
+line-height: 30px;
+}
+.yazi a{display: block; text-decoration: underline; color: black;}
