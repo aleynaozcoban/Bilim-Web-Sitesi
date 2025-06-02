@@ -6,7 +6,7 @@ Bu proje, uzay ile ilgili haberleri dinamik olarak veritabanından çeken bir we
 
 **Kullanılan Teknolojiler**
 
-Backend: PHP
+Backend: PHP, JavaScript
 
 Veritabanı: MySQL
 
